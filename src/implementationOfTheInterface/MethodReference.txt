@@ -1,0 +1,19 @@
+1. it is used for the implementation of the Functional interface
+2.it uses the lamba expressions internally for implementation of the functional interface
+3.it internally creates the four types of lambda expressions
+4. its is the easy way to implementation for the functional interface
+5. it uses the already exsisted method for the implementation of the functional interface
+6.the signature of the method should be same as the abstract method
+in the functional interface
+7. "::"--> method refernce operator used for the creating the
+lamda functions internally already method logic is assigned to the
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+types of the method reference;
+
+
+1.static method refernce or reference to the static
+2. non static method reference or reference to the non static method of another class
+3.constructor reference or reference to the constructor

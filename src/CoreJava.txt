@@ -1,0 +1,238 @@
+ 1. Java Basics
+History of Java
+
+Features of Java
+
+Java Editions (SE, EE, ME)
+
+JVM, JRE, and JDK
+
+Java Development Process
+
+Java Program Structure
+
+Hello World Program
+
+🔹 2. Data Types and Variables
+Primitive Data Types
+
+Non-primitive Data Types
+
+Type Casting (Widening/Narrowing)
+
+Constants and Literals
+
+var keyword (Java 10+)
+
+Scope and Lifetime of Variables
+
+🔹 3. Operators and Expressions
+Arithmetic, Relational, Logical
+
+Unary, Bitwise, Ternary
+
+Assignment Operators
+
+Operator Precedence
+
+🔹 4. Control Flow Statements
+If, if-else, switch
+
+Loops: for, while, do-while
+
+Break, Continue, Return
+
+Nested Loops
+
+🔹 5. Object-Oriented Programming (OOP)
+Class and Object
+
+Constructors (Default, Parameterized)
+
+this keyword
+
+Inheritance
+
+Method Overloading
+
+Method Overriding
+
+Polymorphism
+
+Encapsulation
+
+Abstraction
+
+🔹 6. Access Modifiers
+private, default, protected, public
+
+🔹 7. Static Keyword
+Static Variables
+
+Static Methods
+
+Static Blocks
+
+🔹 8. Final Keyword
+Final Variables
+
+Final Methods
+
+Final Classes
+
+🔹 9. Nested and Inner Classes
+Static Nested Class
+
+Non-static Inner Class
+
+Local Inner Class
+
+Anonymous Inner Class
+
+🔹 10. Interfaces and Abstract Classes
+Interface (with Java 8+ enhancements)
+
+Abstract Class
+
+Difference Between Abstract Class and Interface
+
+🔹 11. Packages and Import
+Creating Packages
+
+Accessing Packages
+
+import keyword
+
+java.lang, java.util packages
+
+🔹 12. Exception Handling
+Try-Catch Block
+
+Multiple Catch Blocks
+
+Finally Block
+
+Throw and Throws
+
+Custom Exceptions
+
+🔹 13. Strings and StringBuffer/StringBuilder
+Immutable Strings
+
+String Methods
+
+StringBuffer vs StringBuilder
+
+String Formatting
+
+🔹 14. Arrays
+One-dimensional Arrays
+
+Multi-dimensional Arrays
+
+Array Operations
+
+Arrays Utility Class
+
+🔹 15. Wrapper Classes
+Autoboxing and Unboxing
+
+Primitive to Object Conversion
+
+🔹 16. Collections Framework
+List, Set, Map, Queue Interfaces
+
+ArrayList, LinkedList, HashSet, TreeSet
+
+HashMap, TreeMap
+
+Iterator and ListIterator
+
+Comparable vs Comparator
+
+🔹 17. Generics
+Generic Classes
+
+Generic Methods
+
+Bounded Types
+
+Wildcards (? extends, ? super)
+
+🔹 18. File I/O (java.io and java.nio)
+Reading/Writing Files
+
+BufferedReader, FileReader, FileWriter
+
+Serialization and Deserialization
+
+Java NIO Overview
+
+🔹 19. Multithreading
+Thread Class and Runnable Interface
+
+Thread Lifecycle
+
+Synchronization
+
+wait(), notify(), notifyAll()
+
+Executor Framework (basic)
+
+🔹 20. Lambda Expressions (Java 8+)
+Functional Interfaces
+
+Syntax and Use Cases
+
+Lambda with Collections
+
+🔹 21. Stream API (Java 8+)
+Stream Creation
+
+Intermediate & Terminal Operations
+
+Filtering, Mapping, Reducing
+
+Collectors
+
+🔹 22. Date and Time API (java.time)
+LocalDate, LocalTime, LocalDateTime
+
+DateTimeFormatter
+
+Period, Duration
+
+🔹 23. Annotations
+Built-in Annotations (@Override, @Deprecated)
+
+Custom Annotations
+
+Retention and Target
+
+🔹 24. Enumerations (Enums)
+Enum Declaration
+
+Enum Methods and Fields
+
+Enums with Switch
+
+🔹 25. Java Memory Management
+Stack vs Heap
+
+Garbage Collection
+
+finalize() method
+
+🔹 26. Java Reflection API
+Class Object
+
+Inspecting Classes, Methods, Fields
+
+Dynamic Instantiation
+
+🔹 27. JVM Internals (Basic Level)
+Classloader Subsystem
+
+Memory Areas (Method Area, Heap, Stack)
+
+Execution Engin

@@ -1,0 +1,66 @@
+1. Candy Jump 🍬
+(Already shared above)
+
+You can jump to the next or skip one.
+
+Maximize the total sweetness collected without taking two adjacent candies.
+
+2. Climb the Ladder 🪜
+You can climb either 1, 2, or 3 steps at a time.
+
+Find how many distinct ways you can reach the top (step n).
+
+Like Climbing Stairs but with 3 options.
+
+3. Minimum Energy Path ⚡
+You are on the 0th step and want to reach step n.
+
+You can move 1 or 2 steps at a time.
+
+Each step has an energy cost.
+
+Find the minimum total energy to reach step n.
+
+4. Maximum Chocolate Collection 🍫
+A row of n boxes contains some chocolates.
+
+You can take chocolates from a box but cannot pick from two adjacent boxes.
+
+Find the maximum total chocolates you can collect.
+
+5. Non-Adjacent Sum ➕
+Given an array of integers, pick numbers such that no two picked numbers are adjacent, and the sum is maximum.
+
+Like the House Robber problem.
+
+6. Jump to End 🏁
+Each index in the array tells how many steps you can jump forward.
+
+Find the minimum number of jumps needed to reach the last index.
+
+Example: [2, 3, 1, 1, 4] → Output: 2 (0 → 1 → 4)
+
+7. Make All Zeros ⭕
+You are given a binary array (0s and 1s).
+
+You can flip a bit and its neighbor together (1→0 or 0→1).
+
+Find the minimum number of operations to make all zeros.
+
+8. Ways to Fill Tiles 🧱
+You have a 2xN floor and 2x1 tiles.
+
+Count the number of ways you can fill the floor completely using tiles (horizontal or vertical).
+
+9. Word Break Count 🧠
+Given a string and a dictionary of words, count how many ways you can break the string into valid dictionary words.
+
+Example: "applepenapple" with ["apple", "pen"] → Output: 1
+
+10. Paint Fence Problem 🎨
+You have n fence posts and k colors.
+
+No more than 2 adjacent fences can have the same color.
+
+Find the number of ways to paint the fence.
+
