@@ -4,6 +4,7 @@ public class CountIsland {
     private static int count=0;
     public static void main(String[] args)
     {
+
         char[][] arr=
                 {{'L', 'L', 'W', 'W', 'W'},
                  {'W', 'L', 'W', 'W', 'L'},
@@ -27,11 +28,10 @@ public class CountIsland {
     public static void backtrack(char[][] arr,boolean[][] visited,int X,int Y)
     {
 
-        if (X < 0 || Y < 0 || X >= arr.length || Y >= arr[0].length || arr[X][Y] == 'W' || visited[X][Y]) {
+        if (X < 0 || Y < 0 || X >= arr.length || Y >= arr[0].length || arr[X][Y] == 'W' || visited[X][Y])
+        {
             return;
         }
-
-
         visited[X][Y]=true;
         backtrack(arr,visited, X+1,Y );
         backtrack(arr,visited,X,Y+1);

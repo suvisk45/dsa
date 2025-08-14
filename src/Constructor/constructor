@@ -1,0 +1,5 @@
+
+
+
+The constructor is one specail block at the class level that holds an specific logic.
+it is used to instialize the nos static variable meanwhile of object creation
